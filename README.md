@@ -1,2 +1,2 @@
-# bcs
-The official repository of Benook Cancelled Simulator!
+# Projects
+This website is used for all my web projects.
